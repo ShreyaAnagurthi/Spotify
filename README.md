@@ -1,2 +1,2 @@
 # Spotify
-basic music app design 
+Music app design 
